@@ -27,7 +27,7 @@ Given this data, our partner school would like some guidance on how best to allo
 
 ## The Data
 
-We've provided you with CSVs representing three tables - `teachers`, `students`, and `assessments`.  Basically, an assessment is an end-of-year standardized test in a specific subject, associated with a given student and a given teacher.
+We've provided you with CSVs in the [the data directory](data/) representing three tables - `teachers`, `students`, and `assessments`.  Basically, an assessment is an end-of-year standardized test in a specific subject, associated with a given student and a given teacher.
 
 The data carries several pieces of metadata on each table.  Here are the tables and their column descriptions (not including the `id` columns, which are just unique identifiers):
 
