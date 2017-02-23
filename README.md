@@ -4,8 +4,8 @@ Hi there! We're ecstatic that you're interested in working with us at Abl. To ge
 
 The expected deliverables from this assignment are:
 
-  1) Your answers to the 3 questions in the challenge below
-  2) All code necessary to take the three provided .csvs (see below) as input, and output the same answers
+  1. Your answers to the 3 questions in the challenge below
+  2. All code necessary to take the three provided .csvs (see below) as input, and output the same answers
 
 For some loose requirements on how to write your code, imagine yourself as a member of our team. This means that:
 
