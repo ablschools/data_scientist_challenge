@@ -1,6 +1,13 @@
 # Abl Schools - Student Assessment Analysis Assignment
 
-Hi there! We're ecstatic that you're interested in working with us at Abl. To get a better idea of your current data science skills, we'd like for you to complete a challenge - perform an analysis on a set of data to answer a set of client questions.  Complete the exercise below in whatever format you prefer, but for some loose requirements, imagine yourself as a member of our team. This means that:
+Hi there! We're ecstatic that you're interested in working with us at Abl. To get a better idea of your current data science skills, we'd like for you to complete a challenge - perform an analysis on a set of data to answer a set of client questions.
+
+The expected deliverables from this assignment are:
+
+  1) Your answers to the 3 questions in the challenge below
+  2) All code necessary to take the three provided .csvs (see below) as input, and output the same answers
+
+For some loose requirements on how to write your code, imagine yourself as a member of our team. This means that:
 
 * Other members of the team will need to read your code.
 * They will expect to be able to reproduce your results.
@@ -9,7 +16,7 @@ Hi there! We're ecstatic that you're interested in working with us at Abl. To ge
 * They will certainly want to make use of the same data.
 * They don't have a license for paid statistical software like SAS, SPSS or Stata. Please use something free like Python, R or SQL.
 
-Once you have completed your solution, please email your answers, write up, and code attachments to codechallenge@ablschools.com.  If you have any questions about the challenge or submission process, feel free to email us.
+Once you have completed your solution, please email your answers and code attachments to codechallenge@ablschools.com.  If you have any questions about the challenge or submission process, feel free to email us.
 
 ## The Challenge
 
@@ -17,13 +24,11 @@ One of our partner schools has provided us with a set of data consisting of teac
 
 Given this data, our partner school would like some guidance on how best to allocate resources.
 
-1) Are there individual students the school should focus more attention on?  What about groups of students, based on common attributes?
+1) Are there individual students that are performing significantly below average? What about groups of students, based on common attributes?
 
-2) Are there individual teachers whose performance deficit (measured by how well their students are doing on the assessments) is statistically significant and should be addressed?  What about groups of teachers, based on common attributes?
+2) Are there individual teachers whose performance deficit (measured by how well their students are doing on the assessments) is statistically significant and should be addressed? What about groups of teachers, based on common attributes?
 
 3) If we wanted to target gaps in performance strategically, but we have limited resources, which general populations (of students and/or teachers) should we target first?
-
-4) In the future, what characteristics describe a student or teacher we should focus more work on proactively, even before seeing assessment scores?  In other words, what attributes appear to correlate to a difference in performance, and which do not?
 
 ## The Data
 
