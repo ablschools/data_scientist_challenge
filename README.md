@@ -4,11 +4,12 @@ Hi there! We're ecstatic that you're interested in working with us at Abl. To ge
 
 The expected deliverables from this assignment are:
 
-  1. Your answers to the 3 questions in the challenge below
+  1. Your answers to the 2 questions in the challenge below
   2. All code necessary to take the three provided .csvs (see below) as input, and output the same answers
 
-For some loose requirements on how to write your code, imagine yourself as a member of our team. This means that:
+For some loose requirements on how to prepare your submission, imagine yourself as a member of our team. This means that:
 
+* You'll need to explain your approach and findings to some people without data scientist backgrounds.
 * Other members of the team will need to read your code.
 * They will expect to be able to reproduce your results.
 * They may want to reuse some of your analyses.
@@ -24,11 +25,9 @@ One of our partner schools has provided us with a set of data consisting of teac
 
 Given this data, our partner school would like some guidance on how best to allocate resources.
 
-1) Are there individual students that are performing significantly below average? What about groups of students, based on common attributes?
+1) What groups of students, based on common attributes, are performing significantly below average (at or below the 25th percentile)?
 
-2) Are there individual teachers whose performance deficit (measured by how well their students are doing on the assessments) is statistically significant and should be addressed? What about groups of teachers, based on common attributes?
-
-3) If we wanted to target gaps in performance strategically, but we have limited resources, which general populations (of students and/or teachers) should we target first?
+2) What groups of students would you predict to improve their assessment scores next year?
 
 ## The Data
 
