@@ -9,7 +9,7 @@ The expected deliverables from this assignment are:
 
 For some loose requirements on how to prepare your submission, imagine yourself as a member of our team. This means that:
 
-* You'll need to explain your approach and findings to some people without data scientist backgrounds.
+* You'll need to explain your approach and findings to some people without backgrounds in data science.
 * Other members of the team will need to read your code.
 * They will expect to be able to reproduce your results.
 * They may want to reuse some of your analyses.
