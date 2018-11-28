@@ -24,7 +24,7 @@ Once you have completed your solution, please email your answers and code attach
 One of our partner schools, Solar System Middle School, has provided us with a set of data consisting of teachers, students, student groupings, and quiz scores. The teachers are trying a new strategy for having peer support structures in their classroom. After each quiz the students are re-grouped by their teacher (either manually or with a special tool we have provided) into one of four types of groups:   
 
 * SimGroup - Teams of students with similar performance levels
-* DivGroup - Teams of students with a wide range of performance levels
+* DivGroup - Teams of students with a diverse range of performance levels (each team is comprised of roughly 1/3 high, 1/3 mid, 1/3 low performing students)
 * Random - Random teams
 * Manual - Manually assigned teams
 
