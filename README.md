@@ -38,7 +38,7 @@ Given this data, our partner school would like some guidance on how to evaluate 
 
 Here are the two questions that our partner school indicated they are interested in knowing more about:
 1. What groups of students, based on common attributes, are consistently underperforming on their quizzes?
-2. Are there any types of groups, e.g., manual groups vs calculated, that you would recommend teachers use or avoid using?
+2. Are there any types of groups, e.g., manual groups vs calculated (SimGroup, DivGroup, Random), that you would recommend teachers use or avoid using?
 
 
 ## The Data
