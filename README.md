@@ -15,7 +15,7 @@ For some loose requirements on how to prepare your submission, imagine yourself 
 * They may want to reuse some of your analyses.
 * They (or you) might need to do something similar in the near future.
 * They will certainly want to make use of the same data.
-* They don't have a license for paid statistical software like SAS, SPSS or Stata. Please use something free like Python, R or SQL.
+* They don't have a license for paid statistical software like SAS, SPSS or Stata. Please use something free like Python or R.
 
 Once you have completed your solution, please email your answers and code attachments to codechallenge@ablschools.com.  If you have any questions about the challenge or submission process, feel free to email us.
 
