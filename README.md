@@ -12,12 +12,19 @@ For some loose requirements on how to prepare your submission, imagine yourself 
 * You'll need to explain your approach and findings to some people without backgrounds in data science.
 * Other members of the team will need to read your code.
 * They will expect to be able to reproduce your results.
-* They may want to reuse some of your analyses.
 * They (or you) might need to do something similar in the near future.
-* They will certainly want to make use of the same data.
 * They don't have a license for paid statistical software like SAS, SPSS or Stata. Please use something free like Python or R.
 
+The goal is for you to spend about 90 minutes on this assignment, so we do not expect perfection. That said, it can be helpful if you note when and where you took shortcuts or might want to do more if you had more time.
+
 Once you have completed your solution, please email your answers and code attachments to codechallenge@ablschools.com.  If you have any questions about the challenge or submission process, feel free to email us.
+
+## Evaluation
+We'll be evaluating this homework on the following criteria:
+- Problem focus and clarity of results
+- Responsible and rigorous use of data and statistics
+- Reproducible and maintainable code, given the time allowed
+
 
 ## The Challenge
 
