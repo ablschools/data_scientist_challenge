@@ -24,6 +24,7 @@ We'll be evaluating this homework on the following criteria:
 - Problem focus and clarity of results
 - Responsible and rigorous use of data and statistics
 - Reproducible and maintainable code, given the time allowed
+- Communication and collaboration with data scientists
 
 
 ## The Challenge
